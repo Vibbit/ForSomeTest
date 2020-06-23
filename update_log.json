@@ -1,9 +1,9 @@
 {
-	"versionCode": "14",
+	"versionCode": "15",
 	"versionName": "1.0.0",
 	"recommend": "false",
 	"messageJa": "jaStrings",
 	"messageZh": "zhStrings",
-	"infoJa": "",
-	"infoZh": ""
+	"infoJa": "infoJa",
+	"infoZh": "infoZh"
 }
