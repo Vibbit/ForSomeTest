@@ -4,6 +4,6 @@
 	"recommend": "false",
 	"messageJa": "jaStrings",
 	"messageZh": "zhStrings",
-	"infoJa": "infoJaStrings",
-	"infoZh": "infoZhStrings"
+	"infoJa": "",
+	"infoZh": ""
 }
